@@ -257,7 +257,11 @@ public class Excercises {
 		return 0;
 	}
 
-	
+	/**
+	 * MOnētas mešanas simulācija
+	 * @param N
+	 * @return statistiku
+	 */
 	public static double[] coinFlip(int N)
 	{
 		//1. pāŗbaudam N
