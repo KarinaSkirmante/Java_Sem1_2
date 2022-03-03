@@ -238,7 +238,14 @@ public class Excercises {
 					
 		return new double[0][0];
 	}
-	//TODO dokumentāciju
+	
+	/**
+	 * Aprēķināt matricas reizinājumu
+	 * @param matrix
+	 * @param i
+	 * @param j
+	 * @return rezultāts
+	 */
 	public static double getProduct(double[][] matrix, int i, int j) ///i=2, j=1
 	{
 		if(matrix!=null && i>=0 && j>=0)
