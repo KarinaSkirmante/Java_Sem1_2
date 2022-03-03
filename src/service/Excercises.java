@@ -307,6 +307,16 @@ public class Excercises {
 	//TODO sarkstīt vsām funkcijām dokumentācju komentārus
 	//TODO izsaukt uztaisīts funkcijas main funkcijā
 	
+	/**
+	 * Aprēķina matematisku izteikssmi, kas padota kā String virkne
+	 * @param inputEquation
+	 * @return
+	 */
+	public static double executeStringEquation(String inputEquation)
+	{
+		return 0.0;
+	}
+	
 	
 	
 }
